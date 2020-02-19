@@ -8,8 +8,11 @@ Resources for the library:
 Usage:
 
 1. install Robot Framework and SSH Library
-    - pip install robotframework
-    - pip install robotframework-sshlibrary
-
+    ```sh
+    pip install robotframework
+    pip install robotframework-sshlibrary
+    ```
 2. launch Robot tests
-    - robot ssh-example.robot
+    ```sh
+    robot ssh-example.robot
+    ```
