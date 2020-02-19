@@ -12,4 +12,4 @@ Usage:
     - pip install robotframework-sshlibrary
 
 2. launch Robot tests
-    - pybot ssh-example.robot
+    - robot ssh-example.robot
